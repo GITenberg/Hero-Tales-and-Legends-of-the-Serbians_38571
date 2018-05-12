@@ -1,0 +1,60 @@
+_repo: Hero-Tales-and-Legends-of-the-Serbians_38571
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Mijatovic, Cedomilj
+    aliases:
+    - Mijatovic, Ceda
+    - Мијатовић, Чедомиљ
+    - Miyatovich, Chedomille
+    - Mijatovich, Chedomil
+    - Miyatovich, Chedo
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '7967'
+    url: http://www.gutenberg.org/2009/agents/7967
+  illustrators:
+  - agent_name: James, Gilbert
+    gutenberg_agent_id: '7970'
+    url: http://www.gutenberg.org/2009/agents/7970
+  - agent_name: Sewell, William
+    gutenberg_agent_id: '7969'
+    url: http://www.gutenberg.org/2009/agents/7969
+covers:
+- cover_type: archival
+  image_path: 38571-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Karadžić, Vuk Stefanović
+    aliases:
+    - Караџић, Вук Стефановић
+    - Karadzic, Vuk Stefanovic
+    birthdate: 1787
+    deathdate: 1864
+    gutenberg_agent_id: '6293'
+    url: http://www.gutenberg.org/2009/agents/6293
+    wikipedia: http://en.wikipedia.org/wiki/Vuk_Stefanovi%C4%87_Karad%C5%BEi%C4%87
+  - agent_name: Petrovitch, Woislav M.
+    aliases:
+    - Petrovic, Vojislav Maksim
+    - Petrović, Vojislav Maksim
+    birthdate: 1884
+    deathdate: 1934
+    gutenberg_agent_id: '7966'
+    url: http://www.gutenberg.org/2009/agents/7966
+description: ''
+gutenberg_issued: '2012-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Serbia'
+- !lcsh 'Folklore -- Serbia'
+- !lcsh 'Legends -- Serbia'
+- !lcc 'GR'
+title: Hero Tales and Legends of the Serbians
+url: http://www.gutenberg.org/ebooks/38571
